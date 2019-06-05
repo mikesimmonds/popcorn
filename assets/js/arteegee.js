@@ -87,7 +87,7 @@ if you click AND it it your turn, send data [next: P2, count 1]
 		// });
 
 		peer = new Peer({
-			// key: 'g4ghylj0x9z1if6r',  // get a free key at http://peerjs.com/peerserver
+			key: 'lwjd5qra8257b9',  // get a free key at http://peerjs.com/peerserver
 			debug: 3,
 			config: {
 				'iceServers': [
