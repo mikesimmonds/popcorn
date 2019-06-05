@@ -90,6 +90,8 @@ if you click AND it it your turn, send data [next: P2, count 1]
 			key: 'lwjd5qra8257b9',  // get a free key at http://peerjs.com/peerserver
 			debug: 3,
       secure: true,
+			host: '0.peerjs.com',
+			post: 80,
 			config: {
 				'iceServers': [
 					{url: 'stun:stun.l.google.com:19302'},
